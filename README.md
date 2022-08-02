@@ -3,5 +3,7 @@
 
 ***
 Add
-// git reset -- node_modules
+```
+git reset -- node_modules
+```
 before commiting
