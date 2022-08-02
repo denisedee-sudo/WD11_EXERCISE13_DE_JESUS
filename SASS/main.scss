@@ -1,0 +1,13 @@
+$primary: red;
+
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$myTheme: (
+    "deepblue": rgb(3, 3, 61),
+    "accent": rgb(0, 0, 202),
+);
+$theme-colors: map-merge($myTheme , $theme-colors );
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

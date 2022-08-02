@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "name": "wd11_exercise13_de_jesus",
+  "version": "1.0.0",
+  "description": "First",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denise Dee De Jesus",
+  "license": "ISC"
+}
